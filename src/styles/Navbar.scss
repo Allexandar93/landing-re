@@ -1,0 +1,74 @@
+.navbar {
+  height: 45px;
+  width: 100vw;
+  max-width: 100vw;
+  background-color: #3d5a80;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0%;
+  z-index: 99;
+  font-family: "Montserrat", "Roboto", sans-serif;
+
+  .navbar__logo {
+    margin-left: 4%;
+    font-weight: bold;
+  }
+
+  .navbar__menu {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 030px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .navbar__icon {
+    display: none;
+  }
+
+  .navbar__contact {
+    margin-right: 4%;
+
+    .contactBtn {
+      background-color: #ffb703;
+      border: none;
+      border-radius: 3px;
+      width: 150px;
+      height: 30px;
+      font-family: "Montserrat", "Roboto", sans-serif;
+      font-weight: 600;
+      transition: 0.3s;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #fb8500;
+      }
+      .contactBtnTxt {
+        color: black;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .navbar {
+    .navbar__menu,
+    .navbar__contact {
+      display: none;
+    }
+
+    .navbar__icon {
+      display: flex;
+      margin-right: 8%;
+      font-size: 1.5em;
+      cursor: pointer;
+    }
+  }
+} ;

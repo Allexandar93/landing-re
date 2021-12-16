@@ -1,0 +1,11 @@
+.products {
+  margin: 0;
+  padding: 0;
+  .sections {
+    display: flex;
+    position: relative;
+    top: 100vh;
+    max-height: calc(100vh - 45px);
+    overflow: hidden;
+  }
+}
