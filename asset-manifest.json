@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/landing-re/static/css/main.aa7d8f22.chunk.css",
+    "main.js": "/landing-re/static/js/main.3ac47c4e.chunk.js",
+    "main.js.map": "/landing-re/static/js/main.3ac47c4e.chunk.js.map",
+    "runtime-main.js": "/landing-re/static/js/runtime-main.777c80c5.js",
+    "runtime-main.js.map": "/landing-re/static/js/runtime-main.777c80c5.js.map",
+    "static/js/2.c2543931.chunk.js": "/landing-re/static/js/2.c2543931.chunk.js",
+    "static/js/2.c2543931.chunk.js.map": "/landing-re/static/js/2.c2543931.chunk.js.map",
+    "index.html": "/landing-re/index.html",
+    "static/css/main.aa7d8f22.chunk.css.map": "/landing-re/static/css/main.aa7d8f22.chunk.css.map",
+    "static/js/2.c2543931.chunk.js.LICENSE.txt": "/landing-re/static/js/2.c2543931.chunk.js.LICENSE.txt",
+    "static/media/About.scss": "/landing-re/static/media/aboutCover.d3b0fab4.jpg",
+    "static/media/Contact.scss": "/landing-re/static/media/contact.21d1f5f8.jpg",
+    "static/media/john.56846be6.jpg": "/landing-re/static/media/john.56846be6.jpg",
+    "static/media/Home.scss": "/landing-re/static/media/villa.10e057b4.jpg",
+    "static/media/villa1.32879e06.jpg": "/landing-re/static/media/villa1.32879e06.jpg",
+    "static/media/villa2.e8336e79.jpg": "/landing-re/static/media/villa2.e8336e79.jpg",
+    "static/media/villa3.c4817440.jpg": "/landing-re/static/media/villa3.c4817440.jpg",
+    "static/media/villa4.76ebb4d7.jpg": "/landing-re/static/media/villa4.76ebb4d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.777c80c5.js",
+    "static/js/2.c2543931.chunk.js",
+    "static/css/main.aa7d8f22.chunk.css",
+    "static/js/main.3ac47c4e.chunk.js"
+  ]
+}
